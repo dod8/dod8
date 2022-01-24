@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @dod8
-- 👀 I’m interested in chemistry and applications of technology in aging fields. 
+- 👋 Hi, I’m @dod8 or Don 
+- 👀 I’m interested in chemistry and applications of technology.
 - 🌱 I’m currently learning python!  
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on anything cool comes along! 
+- My hobbies that I enjoy are badminton, photography and the great out doors. 
 - 📫 reach me by email - dod8@mcmaster.ca
 
 <!---
